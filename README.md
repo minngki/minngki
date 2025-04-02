@@ -1,4 +1,5 @@
 ## 🦄 Welcome to Minji's Github 👋
+![Demo](./assets/demo.gif)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=8A2BE2&duration=3000&width=500&lines=Excited+to+learn+and+improve+every+day.)](https://git.io/typing-svg)
 
 
